@@ -1,0 +1,33 @@
+*{
+    /* display: block; */
+}
+
+img.logo{
+    margin-bottom: -56px;
+    width: 74%;
+}
+ul.nav{
+    margin-left: 60%;
+    /* margin-bottom: 0px; */
+    gap: 10px;
+}
+li.nav-item{
+    background-color: rgb(190, 211, 252);
+    border-radius: 5px;
+}
+img.img-rounded{
+    align-items: center;
+    width: 100%;
+}
+img.subir{
+    margin-top: -50px;
+}
+footer{
+    background-color: cornflowerblue;
+}
+li.icon{
+    display: inline;
+}
+ul.iconos{
+    gap: 20px;
+}
